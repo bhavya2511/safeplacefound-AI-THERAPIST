@@ -31,24 +31,9 @@ or alongside chat sessions:
 
 ## Stack
 
-Adjust this to your actual stack:
 
-**Frontend**
+<img width="498" height="894" alt="image" src="https://github.com/user-attachments/assets/33375615-10ef-468b-b5be-2d75aed0668f" />
 
-- React / Next.js
-- TypeScript
-- Tailwind CSS (or your UI library)
-
-**Backend**
-
-- Node.js + Express (or NestJS, Django, etc.)
-- REST API
-- LLM provider integration (e.g. OpenAI API) for generating replies
-
-**Database**
-
-- PostgreSQL / MySQL / MongoDB
-- ORM: Prisma / TypeORM / Mongoose
 
 Getting Started
 1. Clone
