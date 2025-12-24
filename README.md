@@ -1,11 +1,13 @@
-# safeplacefound-AI-THERAPIST
+<img width="3783" height="1743" alt="image" src="https://github.com/user-attachments/assets/04737251-0496-464f-b7e4-1e040356167e" /># safeplacefound-AI-THERAPIST
 # Therapy Chat App
 
 Simple full-stack web app for guided, text-based conversations about mood, stress, and day-to-day problems.
 
-> **Note**  
-> This project is for learning / experimentation.  
-> It is **not** professional therapy or medical advice.
+DESKTOP VIEW:
+<img width="3804" height="1563" alt="image" src="https://github.com/user-attachments/assets/0706b6f2-d0fb-4b5f-84e7-f9a1fb012c2f" />
+<img width="3837" height="1737" alt="image" src="https://github.com/user-attachments/assets/e32b3bb6-818e-4f1c-a6b3-874da893494a" />
+<img width="3783" height="1743" alt="image" src="https://github.com/user-attachments/assets/6941046e-11d4-4177-b227-ef854c753feb" />
+<img width="3780" height="1749" alt="image" src="https://github.com/user-attachments/assets/b7b12f45-f5d4-4698-8ccb-c9f199cfec3f" />
 
 ---
 
